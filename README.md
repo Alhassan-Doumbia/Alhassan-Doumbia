@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm a software engineering student specializing in
 
 ## 🌐 Connect with Me
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/al-hassan-doumbia-b42972219/)
-- **Email**: [your.email@example.com](mailto:doumbiaalhassanahmed@gmail.com)
+- **LinkedIn**: [take a Look](https://www.linkedin.com/in/al-hassan-doumbia-b42972219/)
+- **Email**: [for PROS](mailto:doumbiaalhassanahmed@gmail.com)
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on a project or just say hi.
 
