@@ -45,16 +45,16 @@ My interests lie at the intersection of **Business Analysis**, **Artificial Inte
 
 ## 💼 Featured Projects
 
-### 🏦 Kota
+### Kota
 A fintech platform reinventing traditional tontine management through secure, transparent and user-centered digital experiences.
 
-### 🔒 MidPaid
+### MidPay
 A secure escrow payment platform designed to protect both clients and freelancers throughout every transaction.
 
-### 📈 Optera
+### Optera
 A KPI monitoring platform developed during my internship at **INFOTECH-PLUS** to help call centers monitor operational performance.
 
-### 🤖 AI Recommendation System
+### AI Recommendation System
 A hybrid recommendation engine combining **Profile-Based Filtering** and **KNN Collaborative Filtering** with Python and Scikit-learn.
 
 ---
